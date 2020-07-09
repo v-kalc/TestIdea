@@ -1,0 +1,156 @@
+﻿/*Curator*/
+
+.module-container {
+    margin-left: 3rem;
+    margin-top: 0.5rem;
+    margin-right: 3rem;
+}
+
+.tab-container {
+    height: 80vh;
+    width: auto;
+    overflow: auto;
+}
+
+.tab-footer {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100vw;
+    height: 10vh;
+    padding-bottom: 2rem !important;
+    padding-left: 0.5rem;
+    padding-right: 3rem;
+}
+
+.table-checkbox-cell {
+    max-width: 3rem;
+}
+
+.add-form-input {
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.add-new-button {
+    min-width: 105px !important;
+    margin: 0;
+    padding-left: 0 !important;
+}
+
+.edit-button {
+    margin: 0;
+    min-width: 73px !important;
+    padding-left: 0 !important;
+}
+
+.delete-button {
+    margin: 0;
+    min-width: 90px !important;
+    padding-left: 0 !important;
+}
+
+.search-bar-margin {
+    width: 40rem;
+}
+
+.response-text-area {
+    height: 10rem !important;
+}
+
+
+.commandbar-wrapper {
+    background-color: #fbfbfb;
+    margin-top: 0.7rem;
+    padding: 4px 2px 4px 2px;
+}
+
+.darkContainer .commandbar-wrapper {
+    background-color: black;
+}
+
+.highContrastContainer .commandbar-wrapper {
+    background-color: black;
+}
+
+.margin-top-medium {
+    margin-top: 1rem !important;
+}
+
+.margin-top-small {
+    margin-top: 0.5rem !important;
+}
+
+.status-cell {
+    max-width: 10rem;
+}
+
+.name-cell {
+    max-width: 15rem;
+}
+
+.chat-cell {
+    max-width: 5rem !important;
+}
+
+.user-avatar {
+    height: 2.5rem;
+    width: 2.5rem;
+    border-radius: 50%;
+    font-weight: 700;
+    padding-top: 0.4rem;
+    font-size: 1.1rem;
+    text-align: center;
+}
+
+.dark-container .initials-color {
+    color: #484644;
+}
+
+.reason-text-area {
+    height: 8rem !important;
+}
+
+.view-idea-width {
+    width: 10rem !important;
+}
+
+.title-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+   -webkit-line-clamp: 1;
+   -webkit-box-orient: vertical;
+}
+
+.author-name {
+    width: 10rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.hover-effect:hover {
+    cursor: pointer;
+}
+
+.tiny-top-margin {
+    margin-top: 0.2rem;
+}
+
+.documents-area {
+    height: 6rem !important;
+    overflow-y: auto;
+}
+
+.document-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.document-hover:hover {
+    color: #6264A7;
+    text-decoration: underline;
+    cursor: pointer;
+}
+/*Curator-end*/
